@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://cdna.artstation.com/p/assets/images/images/061/486/704/large/jadon-rivkin-zn6ge3yfbrsbfinqlvi4ba-r.jpg?1680904546);	/* general background image				*/
+	--background:					url(https://cdnb.artstation.com/p/assets/images/images/061/365/551/large/anya-jo-elvidge-final.jpg?1680622946);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
